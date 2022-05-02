@@ -1,16 +1,14 @@
-### Hi there 👋
+## I'm Cristiano Fraga G. Nunes (a.k.a. cfgnunes)
 
-<!--
-**cfgnunes/cfgnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/cfgnunes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfgnunes&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7"/>
+</div>
 
-Here are some ideas to get you started:
+### 🤝🏻 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/cfgnunes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cristiano%20Fraga%20G.%20Nunes-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:cfgnunes@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cfgnunes@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
