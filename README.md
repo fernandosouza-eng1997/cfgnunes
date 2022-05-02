@@ -23,4 +23,5 @@
 <h3>Connect with me:<h3>
 
 <a href="https://www.linkedin.com/in/cfgnunes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cristiano%20Fraga%20G.%20Nunes-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:cfgnunes@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cfgnunes@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:cfgnunes@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-cfgnunes@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://linktr.ee/cfgnunes"><img alt="Home" src="https://img.shields.io/badge/Home-linktr.ee/cfgnunes-blue?style=flat-square&logo=linktree"></a>
