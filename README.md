@@ -1,7 +1,10 @@
 <h2>Hi there! I'm Cristiano Fraga G. Nunes</h2>
 
-<a href="https://github.com/cfgnunes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7"/>
+<div style="display: inline_block">
+  <a href="https://github.com/cfgnunes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfgnunes&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
 <h3>Languages and tools:<h3>
 
@@ -18,6 +21,8 @@
 
 <h3>Connect with me:<h3>
 
-<a href="https://www.linkedin.com/in/cfgnunes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cristiano%20Fraga%20G.%20Nunes-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://linktr.ee/cfgnunes"><img alt="Home" src="https://img.shields.io/badge/Home-linktr.ee/cfgnunes-blue?style=flat-square&logo=linktree"></a>
-<a href="mailto:cfgnunes@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cfgnunes@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/cfgnunes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cristiano%20Fraga%20G.%20Nunes-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linktr.ee/cfgnunes"><img alt="Home" src="https://img.shields.io/badge/Home-linktr.ee/cfgnunes-blue?style=flat-square&logo=linktree"></a>
+  <a href="mailto:cfgnunes@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cfgnunes@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</div>
