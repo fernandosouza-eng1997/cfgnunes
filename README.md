@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/cfgnunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfgnunes&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfgnunes&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
 </div>
 
 <h3>Languages and tools:<h3>
