@@ -1,10 +1,7 @@
 <h2>Hi there! I'm Cristiano Fraga G. Nunes</h2>
 
-<div align="center">
-  <a href="https://github.com/cfgnunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfgnunes&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7"/>
-</div>
+<a href="https://github.com/cfgnunes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7"/>
 
 <h3>Languages and tools:<h3>
 
@@ -16,7 +13,6 @@
   <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img align="center" alt="opencv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  <img align="center" alt="arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
